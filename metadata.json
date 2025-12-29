@@ -1,0 +1,8 @@
+{
+  "name": "CampusGreen",
+  "description": "A sustainability-focused web app for college campuses to help students adopt eco-friendly habits through challenges, AI guidance, and campus resource tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
